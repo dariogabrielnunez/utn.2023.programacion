@@ -1,0 +1,30 @@
+C:\Users\dario\source\repos\Sustractor\bin\Debug\net6.0\Sustractor.exe
+C:\Users\dario\source\repos\Sustractor\bin\Debug\net6.0\Sustractor.deps.json
+C:\Users\dario\source\repos\Sustractor\bin\Debug\net6.0\Sustractor.runtimeconfig.json
+C:\Users\dario\source\repos\Sustractor\bin\Debug\net6.0\Sustractor.dll
+C:\Users\dario\source\repos\Sustractor\bin\Debug\net6.0\Sustractor.pdb
+C:\Users\dario\source\repos\Sustractor\obj\Debug\net6.0\Sustractor.csproj.AssemblyReference.cache
+C:\Users\dario\source\repos\Sustractor\obj\Debug\net6.0\Sustractor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dario\source\repos\Sustractor\obj\Debug\net6.0\Sustractor.AssemblyInfoInputs.cache
+C:\Users\dario\source\repos\Sustractor\obj\Debug\net6.0\Sustractor.AssemblyInfo.cs
+C:\Users\dario\source\repos\Sustractor\obj\Debug\net6.0\Sustractor.csproj.CoreCompileInputs.cache
+C:\Users\dario\source\repos\Sustractor\obj\Debug\net6.0\Sustractor.dll
+C:\Users\dario\source\repos\Sustractor\obj\Debug\net6.0\refint\Sustractor.dll
+C:\Users\dario\source\repos\Sustractor\obj\Debug\net6.0\Sustractor.pdb
+C:\Users\dario\source\repos\Sustractor\obj\Debug\net6.0\Sustractor.genruntimeconfig.cache
+C:\Users\dario\source\repos\Sustractor\obj\Debug\net6.0\ref\Sustractor.dll
+C:\Users\dario\source\repos\Punto 1 - TP\Sustractor\bin\Debug\net6.0\Sustractor.exe
+C:\Users\dario\source\repos\Punto 1 - TP\Sustractor\bin\Debug\net6.0\Sustractor.deps.json
+C:\Users\dario\source\repos\Punto 1 - TP\Sustractor\bin\Debug\net6.0\Sustractor.runtimeconfig.json
+C:\Users\dario\source\repos\Punto 1 - TP\Sustractor\bin\Debug\net6.0\Sustractor.dll
+C:\Users\dario\source\repos\Punto 1 - TP\Sustractor\bin\Debug\net6.0\Sustractor.pdb
+C:\Users\dario\source\repos\Punto 1 - TP\Sustractor\obj\Debug\net6.0\Sustractor.csproj.AssemblyReference.cache
+C:\Users\dario\source\repos\Punto 1 - TP\Sustractor\obj\Debug\net6.0\Sustractor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dario\source\repos\Punto 1 - TP\Sustractor\obj\Debug\net6.0\Sustractor.AssemblyInfoInputs.cache
+C:\Users\dario\source\repos\Punto 1 - TP\Sustractor\obj\Debug\net6.0\Sustractor.AssemblyInfo.cs
+C:\Users\dario\source\repos\Punto 1 - TP\Sustractor\obj\Debug\net6.0\Sustractor.csproj.CoreCompileInputs.cache
+C:\Users\dario\source\repos\Punto 1 - TP\Sustractor\obj\Debug\net6.0\Sustractor.dll
+C:\Users\dario\source\repos\Punto 1 - TP\Sustractor\obj\Debug\net6.0\refint\Sustractor.dll
+C:\Users\dario\source\repos\Punto 1 - TP\Sustractor\obj\Debug\net6.0\Sustractor.pdb
+C:\Users\dario\source\repos\Punto 1 - TP\Sustractor\obj\Debug\net6.0\Sustractor.genruntimeconfig.cache
+C:\Users\dario\source\repos\Punto 1 - TP\Sustractor\obj\Debug\net6.0\ref\Sustractor.dll

@@ -1,0 +1,30 @@
+C:\Users\dario\source\repos\Potenciador\bin\Debug\net6.0\Potenciador.exe
+C:\Users\dario\source\repos\Potenciador\bin\Debug\net6.0\Potenciador.deps.json
+C:\Users\dario\source\repos\Potenciador\bin\Debug\net6.0\Potenciador.runtimeconfig.json
+C:\Users\dario\source\repos\Potenciador\bin\Debug\net6.0\Potenciador.dll
+C:\Users\dario\source\repos\Potenciador\bin\Debug\net6.0\Potenciador.pdb
+C:\Users\dario\source\repos\Potenciador\obj\Debug\net6.0\Potenciador.csproj.AssemblyReference.cache
+C:\Users\dario\source\repos\Potenciador\obj\Debug\net6.0\Potenciador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dario\source\repos\Potenciador\obj\Debug\net6.0\Potenciador.AssemblyInfoInputs.cache
+C:\Users\dario\source\repos\Potenciador\obj\Debug\net6.0\Potenciador.AssemblyInfo.cs
+C:\Users\dario\source\repos\Potenciador\obj\Debug\net6.0\Potenciador.csproj.CoreCompileInputs.cache
+C:\Users\dario\source\repos\Potenciador\obj\Debug\net6.0\Potenciador.dll
+C:\Users\dario\source\repos\Potenciador\obj\Debug\net6.0\refint\Potenciador.dll
+C:\Users\dario\source\repos\Potenciador\obj\Debug\net6.0\Potenciador.pdb
+C:\Users\dario\source\repos\Potenciador\obj\Debug\net6.0\Potenciador.genruntimeconfig.cache
+C:\Users\dario\source\repos\Potenciador\obj\Debug\net6.0\ref\Potenciador.dll
+C:\Users\dario\source\repos\Punto 1 - TP\Potenciador\bin\Debug\net6.0\Potenciador.exe
+C:\Users\dario\source\repos\Punto 1 - TP\Potenciador\bin\Debug\net6.0\Potenciador.deps.json
+C:\Users\dario\source\repos\Punto 1 - TP\Potenciador\bin\Debug\net6.0\Potenciador.runtimeconfig.json
+C:\Users\dario\source\repos\Punto 1 - TP\Potenciador\bin\Debug\net6.0\Potenciador.dll
+C:\Users\dario\source\repos\Punto 1 - TP\Potenciador\bin\Debug\net6.0\Potenciador.pdb
+C:\Users\dario\source\repos\Punto 1 - TP\Potenciador\obj\Debug\net6.0\Potenciador.csproj.AssemblyReference.cache
+C:\Users\dario\source\repos\Punto 1 - TP\Potenciador\obj\Debug\net6.0\Potenciador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dario\source\repos\Punto 1 - TP\Potenciador\obj\Debug\net6.0\Potenciador.AssemblyInfoInputs.cache
+C:\Users\dario\source\repos\Punto 1 - TP\Potenciador\obj\Debug\net6.0\Potenciador.AssemblyInfo.cs
+C:\Users\dario\source\repos\Punto 1 - TP\Potenciador\obj\Debug\net6.0\Potenciador.csproj.CoreCompileInputs.cache
+C:\Users\dario\source\repos\Punto 1 - TP\Potenciador\obj\Debug\net6.0\Potenciador.dll
+C:\Users\dario\source\repos\Punto 1 - TP\Potenciador\obj\Debug\net6.0\refint\Potenciador.dll
+C:\Users\dario\source\repos\Punto 1 - TP\Potenciador\obj\Debug\net6.0\Potenciador.pdb
+C:\Users\dario\source\repos\Punto 1 - TP\Potenciador\obj\Debug\net6.0\Potenciador.genruntimeconfig.cache
+C:\Users\dario\source\repos\Punto 1 - TP\Potenciador\obj\Debug\net6.0\ref\Potenciador.dll
