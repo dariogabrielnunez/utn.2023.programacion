@@ -1,0 +1,30 @@
+C:\Users\dario\source\repos\Multiplicador\bin\Debug\net6.0\Multiplicador.exe
+C:\Users\dario\source\repos\Multiplicador\bin\Debug\net6.0\Multiplicador.deps.json
+C:\Users\dario\source\repos\Multiplicador\bin\Debug\net6.0\Multiplicador.runtimeconfig.json
+C:\Users\dario\source\repos\Multiplicador\bin\Debug\net6.0\Multiplicador.dll
+C:\Users\dario\source\repos\Multiplicador\bin\Debug\net6.0\Multiplicador.pdb
+C:\Users\dario\source\repos\Multiplicador\obj\Debug\net6.0\Multiplicador.csproj.AssemblyReference.cache
+C:\Users\dario\source\repos\Multiplicador\obj\Debug\net6.0\Multiplicador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dario\source\repos\Multiplicador\obj\Debug\net6.0\Multiplicador.AssemblyInfoInputs.cache
+C:\Users\dario\source\repos\Multiplicador\obj\Debug\net6.0\Multiplicador.AssemblyInfo.cs
+C:\Users\dario\source\repos\Multiplicador\obj\Debug\net6.0\Multiplicador.csproj.CoreCompileInputs.cache
+C:\Users\dario\source\repos\Multiplicador\obj\Debug\net6.0\Multiplicador.dll
+C:\Users\dario\source\repos\Multiplicador\obj\Debug\net6.0\refint\Multiplicador.dll
+C:\Users\dario\source\repos\Multiplicador\obj\Debug\net6.0\Multiplicador.pdb
+C:\Users\dario\source\repos\Multiplicador\obj\Debug\net6.0\Multiplicador.genruntimeconfig.cache
+C:\Users\dario\source\repos\Multiplicador\obj\Debug\net6.0\ref\Multiplicador.dll
+C:\Users\dario\source\repos\Punto 1 - TP\Multiplicador\bin\Debug\net6.0\Multiplicador.exe
+C:\Users\dario\source\repos\Punto 1 - TP\Multiplicador\bin\Debug\net6.0\Multiplicador.deps.json
+C:\Users\dario\source\repos\Punto 1 - TP\Multiplicador\bin\Debug\net6.0\Multiplicador.runtimeconfig.json
+C:\Users\dario\source\repos\Punto 1 - TP\Multiplicador\bin\Debug\net6.0\Multiplicador.dll
+C:\Users\dario\source\repos\Punto 1 - TP\Multiplicador\bin\Debug\net6.0\Multiplicador.pdb
+C:\Users\dario\source\repos\Punto 1 - TP\Multiplicador\obj\Debug\net6.0\Multiplicador.csproj.AssemblyReference.cache
+C:\Users\dario\source\repos\Punto 1 - TP\Multiplicador\obj\Debug\net6.0\Multiplicador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dario\source\repos\Punto 1 - TP\Multiplicador\obj\Debug\net6.0\Multiplicador.AssemblyInfoInputs.cache
+C:\Users\dario\source\repos\Punto 1 - TP\Multiplicador\obj\Debug\net6.0\Multiplicador.AssemblyInfo.cs
+C:\Users\dario\source\repos\Punto 1 - TP\Multiplicador\obj\Debug\net6.0\Multiplicador.csproj.CoreCompileInputs.cache
+C:\Users\dario\source\repos\Punto 1 - TP\Multiplicador\obj\Debug\net6.0\Multiplicador.dll
+C:\Users\dario\source\repos\Punto 1 - TP\Multiplicador\obj\Debug\net6.0\refint\Multiplicador.dll
+C:\Users\dario\source\repos\Punto 1 - TP\Multiplicador\obj\Debug\net6.0\Multiplicador.pdb
+C:\Users\dario\source\repos\Punto 1 - TP\Multiplicador\obj\Debug\net6.0\Multiplicador.genruntimeconfig.cache
+C:\Users\dario\source\repos\Punto 1 - TP\Multiplicador\obj\Debug\net6.0\ref\Multiplicador.dll

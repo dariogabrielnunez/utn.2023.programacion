@@ -1,0 +1,45 @@
+C:\Users\dario\source\repos\Divisor\bin\Debug\net6.0\Divisor.exe
+C:\Users\dario\source\repos\Divisor\bin\Debug\net6.0\Divisor.deps.json
+C:\Users\dario\source\repos\Divisor\bin\Debug\net6.0\Divisor.runtimeconfig.json
+C:\Users\dario\source\repos\Divisor\bin\Debug\net6.0\Divisor.dll
+C:\Users\dario\source\repos\Divisor\bin\Debug\net6.0\Divisor.pdb
+C:\Users\dario\source\repos\Divisor\obj\Debug\net6.0\Divisor.csproj.AssemblyReference.cache
+C:\Users\dario\source\repos\Divisor\obj\Debug\net6.0\Divisor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dario\source\repos\Divisor\obj\Debug\net6.0\Divisor.AssemblyInfoInputs.cache
+C:\Users\dario\source\repos\Divisor\obj\Debug\net6.0\Divisor.AssemblyInfo.cs
+C:\Users\dario\source\repos\Divisor\obj\Debug\net6.0\Divisor.csproj.CoreCompileInputs.cache
+C:\Users\dario\source\repos\Divisor\obj\Debug\net6.0\Divisor.dll
+C:\Users\dario\source\repos\Divisor\obj\Debug\net6.0\refint\Divisor.dll
+C:\Users\dario\source\repos\Divisor\obj\Debug\net6.0\Divisor.pdb
+C:\Users\dario\source\repos\Divisor\obj\Debug\net6.0\Divisor.genruntimeconfig.cache
+C:\Users\dario\source\repos\Divisor\obj\Debug\net6.0\ref\Divisor.dll
+C:\Users\dario\source\repos\Punto a\Divisor\bin\Debug\net6.0\Divisor.exe
+C:\Users\dario\source\repos\Punto a\Divisor\bin\Debug\net6.0\Divisor.deps.json
+C:\Users\dario\source\repos\Punto a\Divisor\bin\Debug\net6.0\Divisor.runtimeconfig.json
+C:\Users\dario\source\repos\Punto a\Divisor\bin\Debug\net6.0\Divisor.dll
+C:\Users\dario\source\repos\Punto a\Divisor\bin\Debug\net6.0\Divisor.pdb
+C:\Users\dario\source\repos\Punto a\Divisor\obj\Debug\net6.0\Divisor.csproj.AssemblyReference.cache
+C:\Users\dario\source\repos\Punto a\Divisor\obj\Debug\net6.0\Divisor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dario\source\repos\Punto a\Divisor\obj\Debug\net6.0\Divisor.AssemblyInfoInputs.cache
+C:\Users\dario\source\repos\Punto a\Divisor\obj\Debug\net6.0\Divisor.AssemblyInfo.cs
+C:\Users\dario\source\repos\Punto a\Divisor\obj\Debug\net6.0\Divisor.csproj.CoreCompileInputs.cache
+C:\Users\dario\source\repos\Punto a\Divisor\obj\Debug\net6.0\Divisor.dll
+C:\Users\dario\source\repos\Punto a\Divisor\obj\Debug\net6.0\refint\Divisor.dll
+C:\Users\dario\source\repos\Punto a\Divisor\obj\Debug\net6.0\Divisor.pdb
+C:\Users\dario\source\repos\Punto a\Divisor\obj\Debug\net6.0\Divisor.genruntimeconfig.cache
+C:\Users\dario\source\repos\Punto a\Divisor\obj\Debug\net6.0\ref\Divisor.dll
+C:\Users\dario\source\repos\Punto 1 - TP\Divisor\bin\Debug\net6.0\Divisor.exe
+C:\Users\dario\source\repos\Punto 1 - TP\Divisor\bin\Debug\net6.0\Divisor.deps.json
+C:\Users\dario\source\repos\Punto 1 - TP\Divisor\bin\Debug\net6.0\Divisor.runtimeconfig.json
+C:\Users\dario\source\repos\Punto 1 - TP\Divisor\bin\Debug\net6.0\Divisor.dll
+C:\Users\dario\source\repos\Punto 1 - TP\Divisor\bin\Debug\net6.0\Divisor.pdb
+C:\Users\dario\source\repos\Punto 1 - TP\Divisor\obj\Debug\net6.0\Divisor.csproj.AssemblyReference.cache
+C:\Users\dario\source\repos\Punto 1 - TP\Divisor\obj\Debug\net6.0\Divisor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dario\source\repos\Punto 1 - TP\Divisor\obj\Debug\net6.0\Divisor.AssemblyInfoInputs.cache
+C:\Users\dario\source\repos\Punto 1 - TP\Divisor\obj\Debug\net6.0\Divisor.AssemblyInfo.cs
+C:\Users\dario\source\repos\Punto 1 - TP\Divisor\obj\Debug\net6.0\Divisor.csproj.CoreCompileInputs.cache
+C:\Users\dario\source\repos\Punto 1 - TP\Divisor\obj\Debug\net6.0\Divisor.dll
+C:\Users\dario\source\repos\Punto 1 - TP\Divisor\obj\Debug\net6.0\refint\Divisor.dll
+C:\Users\dario\source\repos\Punto 1 - TP\Divisor\obj\Debug\net6.0\Divisor.pdb
+C:\Users\dario\source\repos\Punto 1 - TP\Divisor\obj\Debug\net6.0\Divisor.genruntimeconfig.cache
+C:\Users\dario\source\repos\Punto 1 - TP\Divisor\obj\Debug\net6.0\ref\Divisor.dll
