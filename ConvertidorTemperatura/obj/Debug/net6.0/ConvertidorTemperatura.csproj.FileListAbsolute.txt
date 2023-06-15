@@ -1,0 +1,30 @@
+C:\Users\dario\source\repos\ConvertidorTemperatura\bin\Debug\net6.0\ConvertidorTemperatura.exe
+C:\Users\dario\source\repos\ConvertidorTemperatura\bin\Debug\net6.0\ConvertidorTemperatura.deps.json
+C:\Users\dario\source\repos\ConvertidorTemperatura\bin\Debug\net6.0\ConvertidorTemperatura.runtimeconfig.json
+C:\Users\dario\source\repos\ConvertidorTemperatura\bin\Debug\net6.0\ConvertidorTemperatura.dll
+C:\Users\dario\source\repos\ConvertidorTemperatura\bin\Debug\net6.0\ConvertidorTemperatura.pdb
+C:\Users\dario\source\repos\ConvertidorTemperatura\obj\Debug\net6.0\ConvertidorTemperatura.csproj.AssemblyReference.cache
+C:\Users\dario\source\repos\ConvertidorTemperatura\obj\Debug\net6.0\ConvertidorTemperatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dario\source\repos\ConvertidorTemperatura\obj\Debug\net6.0\ConvertidorTemperatura.AssemblyInfoInputs.cache
+C:\Users\dario\source\repos\ConvertidorTemperatura\obj\Debug\net6.0\ConvertidorTemperatura.AssemblyInfo.cs
+C:\Users\dario\source\repos\ConvertidorTemperatura\obj\Debug\net6.0\ConvertidorTemperatura.csproj.CoreCompileInputs.cache
+C:\Users\dario\source\repos\ConvertidorTemperatura\obj\Debug\net6.0\ConvertidorTemperatura.dll
+C:\Users\dario\source\repos\ConvertidorTemperatura\obj\Debug\net6.0\refint\ConvertidorTemperatura.dll
+C:\Users\dario\source\repos\ConvertidorTemperatura\obj\Debug\net6.0\ConvertidorTemperatura.pdb
+C:\Users\dario\source\repos\ConvertidorTemperatura\obj\Debug\net6.0\ConvertidorTemperatura.genruntimeconfig.cache
+C:\Users\dario\source\repos\ConvertidorTemperatura\obj\Debug\net6.0\ref\ConvertidorTemperatura.dll
+C:\Users\dario\source\repos\Punto 1 - TP\ConvertidorTemperatura\bin\Debug\net6.0\ConvertidorTemperatura.exe
+C:\Users\dario\source\repos\Punto 1 - TP\ConvertidorTemperatura\bin\Debug\net6.0\ConvertidorTemperatura.deps.json
+C:\Users\dario\source\repos\Punto 1 - TP\ConvertidorTemperatura\bin\Debug\net6.0\ConvertidorTemperatura.runtimeconfig.json
+C:\Users\dario\source\repos\Punto 1 - TP\ConvertidorTemperatura\bin\Debug\net6.0\ConvertidorTemperatura.dll
+C:\Users\dario\source\repos\Punto 1 - TP\ConvertidorTemperatura\bin\Debug\net6.0\ConvertidorTemperatura.pdb
+C:\Users\dario\source\repos\Punto 1 - TP\ConvertidorTemperatura\obj\Debug\net6.0\ConvertidorTemperatura.csproj.AssemblyReference.cache
+C:\Users\dario\source\repos\Punto 1 - TP\ConvertidorTemperatura\obj\Debug\net6.0\ConvertidorTemperatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dario\source\repos\Punto 1 - TP\ConvertidorTemperatura\obj\Debug\net6.0\ConvertidorTemperatura.AssemblyInfoInputs.cache
+C:\Users\dario\source\repos\Punto 1 - TP\ConvertidorTemperatura\obj\Debug\net6.0\ConvertidorTemperatura.AssemblyInfo.cs
+C:\Users\dario\source\repos\Punto 1 - TP\ConvertidorTemperatura\obj\Debug\net6.0\ConvertidorTemperatura.csproj.CoreCompileInputs.cache
+C:\Users\dario\source\repos\Punto 1 - TP\ConvertidorTemperatura\obj\Debug\net6.0\ConvertidorTemperatura.dll
+C:\Users\dario\source\repos\Punto 1 - TP\ConvertidorTemperatura\obj\Debug\net6.0\refint\ConvertidorTemperatura.dll
+C:\Users\dario\source\repos\Punto 1 - TP\ConvertidorTemperatura\obj\Debug\net6.0\ConvertidorTemperatura.pdb
+C:\Users\dario\source\repos\Punto 1 - TP\ConvertidorTemperatura\obj\Debug\net6.0\ConvertidorTemperatura.genruntimeconfig.cache
+C:\Users\dario\source\repos\Punto 1 - TP\ConvertidorTemperatura\obj\Debug\net6.0\ref\ConvertidorTemperatura.dll

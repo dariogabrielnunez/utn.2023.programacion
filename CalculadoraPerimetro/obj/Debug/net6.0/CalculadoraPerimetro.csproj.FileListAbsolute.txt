@@ -1,0 +1,30 @@
+C:\Users\dario\source\repos\CalculadoraPerimetro\bin\Debug\net6.0\CalculadoraPerimetro.exe
+C:\Users\dario\source\repos\CalculadoraPerimetro\bin\Debug\net6.0\CalculadoraPerimetro.deps.json
+C:\Users\dario\source\repos\CalculadoraPerimetro\bin\Debug\net6.0\CalculadoraPerimetro.runtimeconfig.json
+C:\Users\dario\source\repos\CalculadoraPerimetro\bin\Debug\net6.0\CalculadoraPerimetro.dll
+C:\Users\dario\source\repos\CalculadoraPerimetro\bin\Debug\net6.0\CalculadoraPerimetro.pdb
+C:\Users\dario\source\repos\CalculadoraPerimetro\obj\Debug\net6.0\CalculadoraPerimetro.csproj.AssemblyReference.cache
+C:\Users\dario\source\repos\CalculadoraPerimetro\obj\Debug\net6.0\CalculadoraPerimetro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dario\source\repos\CalculadoraPerimetro\obj\Debug\net6.0\CalculadoraPerimetro.AssemblyInfoInputs.cache
+C:\Users\dario\source\repos\CalculadoraPerimetro\obj\Debug\net6.0\CalculadoraPerimetro.AssemblyInfo.cs
+C:\Users\dario\source\repos\CalculadoraPerimetro\obj\Debug\net6.0\CalculadoraPerimetro.csproj.CoreCompileInputs.cache
+C:\Users\dario\source\repos\CalculadoraPerimetro\obj\Debug\net6.0\CalculadoraPerimetro.dll
+C:\Users\dario\source\repos\CalculadoraPerimetro\obj\Debug\net6.0\refint\CalculadoraPerimetro.dll
+C:\Users\dario\source\repos\CalculadoraPerimetro\obj\Debug\net6.0\CalculadoraPerimetro.pdb
+C:\Users\dario\source\repos\CalculadoraPerimetro\obj\Debug\net6.0\CalculadoraPerimetro.genruntimeconfig.cache
+C:\Users\dario\source\repos\CalculadoraPerimetro\obj\Debug\net6.0\ref\CalculadoraPerimetro.dll
+C:\Users\dario\source\repos\Punto 1 - TP\CalculadoraPerimetro\bin\Debug\net6.0\CalculadoraPerimetro.exe
+C:\Users\dario\source\repos\Punto 1 - TP\CalculadoraPerimetro\bin\Debug\net6.0\CalculadoraPerimetro.deps.json
+C:\Users\dario\source\repos\Punto 1 - TP\CalculadoraPerimetro\bin\Debug\net6.0\CalculadoraPerimetro.runtimeconfig.json
+C:\Users\dario\source\repos\Punto 1 - TP\CalculadoraPerimetro\bin\Debug\net6.0\CalculadoraPerimetro.dll
+C:\Users\dario\source\repos\Punto 1 - TP\CalculadoraPerimetro\bin\Debug\net6.0\CalculadoraPerimetro.pdb
+C:\Users\dario\source\repos\Punto 1 - TP\CalculadoraPerimetro\obj\Debug\net6.0\CalculadoraPerimetro.csproj.AssemblyReference.cache
+C:\Users\dario\source\repos\Punto 1 - TP\CalculadoraPerimetro\obj\Debug\net6.0\CalculadoraPerimetro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dario\source\repos\Punto 1 - TP\CalculadoraPerimetro\obj\Debug\net6.0\CalculadoraPerimetro.AssemblyInfoInputs.cache
+C:\Users\dario\source\repos\Punto 1 - TP\CalculadoraPerimetro\obj\Debug\net6.0\CalculadoraPerimetro.AssemblyInfo.cs
+C:\Users\dario\source\repos\Punto 1 - TP\CalculadoraPerimetro\obj\Debug\net6.0\CalculadoraPerimetro.csproj.CoreCompileInputs.cache
+C:\Users\dario\source\repos\Punto 1 - TP\CalculadoraPerimetro\obj\Debug\net6.0\CalculadoraPerimetro.dll
+C:\Users\dario\source\repos\Punto 1 - TP\CalculadoraPerimetro\obj\Debug\net6.0\refint\CalculadoraPerimetro.dll
+C:\Users\dario\source\repos\Punto 1 - TP\CalculadoraPerimetro\obj\Debug\net6.0\CalculadoraPerimetro.pdb
+C:\Users\dario\source\repos\Punto 1 - TP\CalculadoraPerimetro\obj\Debug\net6.0\CalculadoraPerimetro.genruntimeconfig.cache
+C:\Users\dario\source\repos\Punto 1 - TP\CalculadoraPerimetro\obj\Debug\net6.0\ref\CalculadoraPerimetro.dll
