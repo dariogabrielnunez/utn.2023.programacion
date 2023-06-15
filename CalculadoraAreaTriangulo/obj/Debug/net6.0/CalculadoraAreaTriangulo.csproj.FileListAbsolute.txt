@@ -1,0 +1,15 @@
+C:\Users\dario\source\repos\CalculadoraAreaTriangulo\bin\Debug\net6.0\CalculadoraAreaTriangulo.exe
+C:\Users\dario\source\repos\CalculadoraAreaTriangulo\bin\Debug\net6.0\CalculadoraAreaTriangulo.deps.json
+C:\Users\dario\source\repos\CalculadoraAreaTriangulo\bin\Debug\net6.0\CalculadoraAreaTriangulo.runtimeconfig.json
+C:\Users\dario\source\repos\CalculadoraAreaTriangulo\bin\Debug\net6.0\CalculadoraAreaTriangulo.dll
+C:\Users\dario\source\repos\CalculadoraAreaTriangulo\bin\Debug\net6.0\CalculadoraAreaTriangulo.pdb
+C:\Users\dario\source\repos\CalculadoraAreaTriangulo\obj\Debug\net6.0\CalculadoraAreaTriangulo.csproj.AssemblyReference.cache
+C:\Users\dario\source\repos\CalculadoraAreaTriangulo\obj\Debug\net6.0\CalculadoraAreaTriangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dario\source\repos\CalculadoraAreaTriangulo\obj\Debug\net6.0\CalculadoraAreaTriangulo.AssemblyInfoInputs.cache
+C:\Users\dario\source\repos\CalculadoraAreaTriangulo\obj\Debug\net6.0\CalculadoraAreaTriangulo.AssemblyInfo.cs
+C:\Users\dario\source\repos\CalculadoraAreaTriangulo\obj\Debug\net6.0\CalculadoraAreaTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\dario\source\repos\CalculadoraAreaTriangulo\obj\Debug\net6.0\CalculadoraAreaTriangulo.dll
+C:\Users\dario\source\repos\CalculadoraAreaTriangulo\obj\Debug\net6.0\refint\CalculadoraAreaTriangulo.dll
+C:\Users\dario\source\repos\CalculadoraAreaTriangulo\obj\Debug\net6.0\CalculadoraAreaTriangulo.pdb
+C:\Users\dario\source\repos\CalculadoraAreaTriangulo\obj\Debug\net6.0\CalculadoraAreaTriangulo.genruntimeconfig.cache
+C:\Users\dario\source\repos\CalculadoraAreaTriangulo\obj\Debug\net6.0\ref\CalculadoraAreaTriangulo.dll

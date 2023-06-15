@@ -1,0 +1,15 @@
+C:\Users\dario\source\repos\Promedios\obj\Debug\net6.0\Promedios.csproj.AssemblyReference.cache
+C:\Users\dario\source\repos\Promedios\obj\Debug\net6.0\Promedios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dario\source\repos\Promedios\obj\Debug\net6.0\Promedios.AssemblyInfoInputs.cache
+C:\Users\dario\source\repos\Promedios\obj\Debug\net6.0\Promedios.AssemblyInfo.cs
+C:\Users\dario\source\repos\Promedios\obj\Debug\net6.0\Promedios.csproj.CoreCompileInputs.cache
+C:\Users\dario\source\repos\Promedios\bin\Debug\net6.0\Promedios.exe
+C:\Users\dario\source\repos\Promedios\bin\Debug\net6.0\Promedios.deps.json
+C:\Users\dario\source\repos\Promedios\bin\Debug\net6.0\Promedios.runtimeconfig.json
+C:\Users\dario\source\repos\Promedios\bin\Debug\net6.0\Promedios.dll
+C:\Users\dario\source\repos\Promedios\bin\Debug\net6.0\Promedios.pdb
+C:\Users\dario\source\repos\Promedios\obj\Debug\net6.0\Promedios.dll
+C:\Users\dario\source\repos\Promedios\obj\Debug\net6.0\refint\Promedios.dll
+C:\Users\dario\source\repos\Promedios\obj\Debug\net6.0\Promedios.pdb
+C:\Users\dario\source\repos\Promedios\obj\Debug\net6.0\Promedios.genruntimeconfig.cache
+C:\Users\dario\source\repos\Promedios\obj\Debug\net6.0\ref\Promedios.dll
