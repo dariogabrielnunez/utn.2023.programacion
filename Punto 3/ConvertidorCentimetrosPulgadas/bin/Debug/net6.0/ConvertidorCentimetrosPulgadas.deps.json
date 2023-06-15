@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ConvertidorCentimetrosPulgadas/1.0.0": {
+        "runtime": {
+          "ConvertidorCentimetrosPulgadas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConvertidorCentimetrosPulgadas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

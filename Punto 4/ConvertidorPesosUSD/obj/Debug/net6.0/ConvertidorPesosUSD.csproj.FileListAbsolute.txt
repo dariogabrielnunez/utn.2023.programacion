@@ -1,0 +1,15 @@
+C:\Users\dario\source\repos\ConvertidorPesosUSD\bin\Debug\net6.0\ConvertidorPesosUSD.exe
+C:\Users\dario\source\repos\ConvertidorPesosUSD\bin\Debug\net6.0\ConvertidorPesosUSD.deps.json
+C:\Users\dario\source\repos\ConvertidorPesosUSD\bin\Debug\net6.0\ConvertidorPesosUSD.runtimeconfig.json
+C:\Users\dario\source\repos\ConvertidorPesosUSD\bin\Debug\net6.0\ConvertidorPesosUSD.dll
+C:\Users\dario\source\repos\ConvertidorPesosUSD\bin\Debug\net6.0\ConvertidorPesosUSD.pdb
+C:\Users\dario\source\repos\ConvertidorPesosUSD\obj\Debug\net6.0\ConvertidorPesosUSD.csproj.AssemblyReference.cache
+C:\Users\dario\source\repos\ConvertidorPesosUSD\obj\Debug\net6.0\ConvertidorPesosUSD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dario\source\repos\ConvertidorPesosUSD\obj\Debug\net6.0\ConvertidorPesosUSD.AssemblyInfoInputs.cache
+C:\Users\dario\source\repos\ConvertidorPesosUSD\obj\Debug\net6.0\ConvertidorPesosUSD.AssemblyInfo.cs
+C:\Users\dario\source\repos\ConvertidorPesosUSD\obj\Debug\net6.0\ConvertidorPesosUSD.csproj.CoreCompileInputs.cache
+C:\Users\dario\source\repos\ConvertidorPesosUSD\obj\Debug\net6.0\ConvertidorPesosUSD.dll
+C:\Users\dario\source\repos\ConvertidorPesosUSD\obj\Debug\net6.0\refint\ConvertidorPesosUSD.dll
+C:\Users\dario\source\repos\ConvertidorPesosUSD\obj\Debug\net6.0\ConvertidorPesosUSD.pdb
+C:\Users\dario\source\repos\ConvertidorPesosUSD\obj\Debug\net6.0\ConvertidorPesosUSD.genruntimeconfig.cache
+C:\Users\dario\source\repos\ConvertidorPesosUSD\obj\Debug\net6.0\ref\ConvertidorPesosUSD.dll
