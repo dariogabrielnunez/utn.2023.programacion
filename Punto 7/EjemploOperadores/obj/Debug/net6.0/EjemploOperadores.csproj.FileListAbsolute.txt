@@ -1,0 +1,15 @@
+C:\Users\dario\source\repos\EjemploOperadores\obj\Debug\net6.0\EjemploOperadores.csproj.AssemblyReference.cache
+C:\Users\dario\source\repos\EjemploOperadores\obj\Debug\net6.0\EjemploOperadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dario\source\repos\EjemploOperadores\obj\Debug\net6.0\EjemploOperadores.AssemblyInfoInputs.cache
+C:\Users\dario\source\repos\EjemploOperadores\obj\Debug\net6.0\EjemploOperadores.AssemblyInfo.cs
+C:\Users\dario\source\repos\EjemploOperadores\obj\Debug\net6.0\EjemploOperadores.csproj.CoreCompileInputs.cache
+C:\Users\dario\source\repos\EjemploOperadores\bin\Debug\net6.0\EjemploOperadores.exe
+C:\Users\dario\source\repos\EjemploOperadores\bin\Debug\net6.0\EjemploOperadores.deps.json
+C:\Users\dario\source\repos\EjemploOperadores\bin\Debug\net6.0\EjemploOperadores.runtimeconfig.json
+C:\Users\dario\source\repos\EjemploOperadores\bin\Debug\net6.0\EjemploOperadores.dll
+C:\Users\dario\source\repos\EjemploOperadores\bin\Debug\net6.0\EjemploOperadores.pdb
+C:\Users\dario\source\repos\EjemploOperadores\obj\Debug\net6.0\EjemploOperadores.dll
+C:\Users\dario\source\repos\EjemploOperadores\obj\Debug\net6.0\refint\EjemploOperadores.dll
+C:\Users\dario\source\repos\EjemploOperadores\obj\Debug\net6.0\EjemploOperadores.pdb
+C:\Users\dario\source\repos\EjemploOperadores\obj\Debug\net6.0\EjemploOperadores.genruntimeconfig.cache
+C:\Users\dario\source\repos\EjemploOperadores\obj\Debug\net6.0\ref\EjemploOperadores.dll
