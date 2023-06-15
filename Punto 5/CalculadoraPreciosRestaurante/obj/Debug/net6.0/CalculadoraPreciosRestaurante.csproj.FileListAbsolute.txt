@@ -1,0 +1,15 @@
+C:\Users\dario\source\repos\CalculadoraPreciosRestaurante\bin\Debug\net6.0\CalculadoraPreciosRestaurante.exe
+C:\Users\dario\source\repos\CalculadoraPreciosRestaurante\bin\Debug\net6.0\CalculadoraPreciosRestaurante.deps.json
+C:\Users\dario\source\repos\CalculadoraPreciosRestaurante\bin\Debug\net6.0\CalculadoraPreciosRestaurante.runtimeconfig.json
+C:\Users\dario\source\repos\CalculadoraPreciosRestaurante\bin\Debug\net6.0\CalculadoraPreciosRestaurante.dll
+C:\Users\dario\source\repos\CalculadoraPreciosRestaurante\bin\Debug\net6.0\CalculadoraPreciosRestaurante.pdb
+C:\Users\dario\source\repos\CalculadoraPreciosRestaurante\obj\Debug\net6.0\CalculadoraPreciosRestaurante.csproj.AssemblyReference.cache
+C:\Users\dario\source\repos\CalculadoraPreciosRestaurante\obj\Debug\net6.0\CalculadoraPreciosRestaurante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dario\source\repos\CalculadoraPreciosRestaurante\obj\Debug\net6.0\CalculadoraPreciosRestaurante.AssemblyInfoInputs.cache
+C:\Users\dario\source\repos\CalculadoraPreciosRestaurante\obj\Debug\net6.0\CalculadoraPreciosRestaurante.AssemblyInfo.cs
+C:\Users\dario\source\repos\CalculadoraPreciosRestaurante\obj\Debug\net6.0\CalculadoraPreciosRestaurante.csproj.CoreCompileInputs.cache
+C:\Users\dario\source\repos\CalculadoraPreciosRestaurante\obj\Debug\net6.0\CalculadoraPreciosRestaurante.dll
+C:\Users\dario\source\repos\CalculadoraPreciosRestaurante\obj\Debug\net6.0\refint\CalculadoraPreciosRestaurante.dll
+C:\Users\dario\source\repos\CalculadoraPreciosRestaurante\obj\Debug\net6.0\CalculadoraPreciosRestaurante.pdb
+C:\Users\dario\source\repos\CalculadoraPreciosRestaurante\obj\Debug\net6.0\CalculadoraPreciosRestaurante.genruntimeconfig.cache
+C:\Users\dario\source\repos\CalculadoraPreciosRestaurante\obj\Debug\net6.0\ref\CalculadoraPreciosRestaurante.dll

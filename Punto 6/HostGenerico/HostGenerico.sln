@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HostGenerico", "HostGenerico.csproj", "{8C697E26-F232-4211-B47B-8284D44AF971}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C697E26-F232-4211-B47B-8284D44AF971}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C697E26-F232-4211-B47B-8284D44AF971}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C697E26-F232-4211-B47B-8284D44AF971}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C697E26-F232-4211-B47B-8284D44AF971}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B80C5902-B751-4229-99B7-538855F38659}
+	EndGlobalSection
+EndGlobal
